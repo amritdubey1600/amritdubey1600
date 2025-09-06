@@ -91,8 +91,8 @@
 
 * Portfolio: **[https://amrit-dubey.vercel.app/](https://amrit-dubey.vercel.app/)**
 * Email: **[amritdubey22003@gmail.com](mailto:amritdubey22003@gmail.com)**
-* LinkedIn: **/in/amrit-dubey-75449b262**
-* LeetCode: **/amritdubey22003**
+* LinkedIn: **[https://www.linkedin.com/in/amrit-dubey-75449b262](https://www.linkedin.com/in/amrit-dubey-75449b262)**
+* LeetCode: **[https://leetcode.com/u/amritdubey22003/](https://leetcode.com/u/amritdubey22003/)**
 
 ---
 
