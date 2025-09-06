@@ -1,21 +1,99 @@
-<h1 align="center">Hi 👋, I'm Amrit Dubey</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi, I'm Amrit Dubey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/></h1>
+<h3 align="center">Full‑stack software developer • India 🇮🇳</h3>
 
-- 👨‍💻 All of my projects are available at [https://amrit-dubey.vercel.app/](https://amrit-dubey.vercel.app/)
-
-- 📫 How to reach me **amritdubey22003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amrit-dubey-75449b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit-dubey-75449b262" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amritdubey22003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amritdubey22003" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://amrit-dubey.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amrit--dubey.vercel.app-000?logo=vercel&logoColor=white"></a>
+  <a href="mailto:amritdubey22003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amritdubey22003%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/amrit-dubey-75449b262"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amrit%20Dubey-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/amritdubey22003/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-amritdubey22003-FFA116?logo=leetcode&logoColor=black"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=amritdubey1600&style=flat&color=0e75b6"/>
+  <a href="https://github.com/amritdubey1600?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/amritdubey1600?label=Follow&style=social"></a>
+</p>
 
-<br />
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritdubey1600&show_icons=true&locale=en&layout=compact" alt="amritdubey1600" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritdubey1600&show_icons=true&locale=en" alt="amritdubey1600" /></p>
+### 🚀 What I do
+
+* Build pragmatic **full‑stack apps** with **TypeScript, React/Next.js, Node.js/Express, MongoDB/MySQL**
+* Design clean UI with **Tailwind, MUI** and robust data flows with **Redux**
+* Solve DSA problems (C++/Java) and apply them to real products
+* Deploy on **Vercel**/**Firebase** and optimize for performance, DX, and maintainability
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" height="42" alt="Redux"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" alt="Redis"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
+  <img src="https://bestofjs.org/logos/vuetify.svg" width="42" height="42" alt="Vuetify"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" alt="Bootstrap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" alt="scikit-learn"/>
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+* **Cinephile - BookMyShow Clone** — TS + React + Firebase, real‑time updates
+  🔗 [Repo](https://github.com/amritdubey1600/cinephile) · 🔗 [Live](https://cinephile-sepia-six.vercel.app/)
+* **Authenticator** — MERN, JWT, RBAC, secure sessions
+  🔗 [Repo](https://github.com/amritdubey1600/admin-app) · 🔗 [Live](https://admin-app-sypg.onrender.com)
+* **Career Assistant** — ATS‑style score vs. JD, extracts skills & maps to job listings
+  🔗 [Repo](https://github.com/amritdubey1600/resume_app_final) · 🔗 [Live](https://career-achiever.onrender.com/)
+  
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritdubey1600&layout=compact&hide_border=true" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amritdubey1600&show_icons=true&hide_border=true" />
+</p>
+<p>
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=amritdubey1600&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Open Source
+
+* If you want to collaborate, ping me on **LinkedIn** or by **email** (links above)
+
+### 🧠 Currently learning
+
+* Advanced **Next.js**, **server actions**, caching strategies
+
+### 💬 Ask me about
+
+* Building production‑ready React/Next.js apps
+* Data modeling (MongoDB/MySQL), REST APIs, auth flows
+* Clean, idiomatic **TypeScript** and **C++** for problem‑solving
+
+### 📬 Reach me
+
+* Portfolio: **[https://amrit-dubey.vercel.app/](https://amrit-dubey.vercel.app/)**
+* Email: **[amritdubey22003@gmail.com](mailto:amritdubey22003@gmail.com)**
+* LinkedIn: **/in/amrit-dubey-75449b262**
+* LeetCode: **/amritdubey22003**
+
+---
+
+<sub>⭐ If you like my work, consider starring the repos—your support helps a ton!</sub>
